@@ -1,4 +1,6 @@
 {
 	"group": 24,
-	"students": 200
+	"students": 200,
+	"course": "QA",
+	"name": "anton"
 }
