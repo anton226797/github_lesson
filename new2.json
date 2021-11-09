@@ -2,5 +2,10 @@
 	"name":"Anton Antjuhov",
 	"age": 31,
 	"pets": 1,
-	"future_salary": 3000
+	"future_salary": 3000,
+	"favorite_movie":"Shutter Island",
+	"favorite_series":"Sons of Anarchy",
+	"favorite_food":"pizza",
+	"favorite_time_of_the_year":"spring",
+	"country":"Spain"
 }
