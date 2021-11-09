@@ -4,4 +4,9 @@
 	<age>31</age>
 	<pets>1</pets>
 	<salary>3000</salary>
+	<favorite_movie>Shutter Island</favorite_movie>
+	<favorite_series>Sons of Anarchy</favorite_series>
+	<favorite_food>pizza</favorite_food>
+	<favorite_time_of_the_year>spring</favorite_time_of_the_year>
+	<country>Spain</country>
 </file>
